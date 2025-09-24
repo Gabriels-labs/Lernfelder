@@ -12,9 +12,11 @@
 
 
 ## Kennziffern (Formeln)
-- **Produktivität:** \(P = rac{Output}{Input}\)
-- **Wirtschaftlichkeit:** \(W = rac{Ertrag}{Aufwand}\) (≈ Leistungen/Kosten)
-- **Rentabilität:** \(R = rac{Gewinn}{Kapital}\)
+- **Produktivität:** P = Output / Input
+- **Wirtschaftlichkeit:** W = Ertrag / Aufwand (≈ Leistungen / Kosten)
+- **Rentabilität:** R = Gewinn / Kapital
+
+👉 Wenn das Ergebnis als Prozentwert dargestellt werden soll, wird der Quotient mit 100 % multipliziert.
 
 
 ## Unternehmensrechtsformen (Überblick)
