@@ -16,9 +16,7 @@
 
 
 ## Ordner
-- `media/` – eigene Grafiken/Screenshots
-- `übungen/` – Übungsantworten, Kurzlösungen
-- `labs/` – kleine Demos/Code (z. B. CSV/JSON-Reader)
+- `übungen/` – Übungsantworten, Kurzlösungen, mit Screenshots und PDF-Dateien
 
 
 > Hinweis: Inhalte sind bewusst knapp und praxisnah formuliert und dienen als persönlicher Lern- und Bewerbungsnachweis.
