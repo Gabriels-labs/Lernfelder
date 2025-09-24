@@ -1,6 +1,6 @@
 # 📚 Lernfelder (Umschulung FiSi)
 
-Dieses Repository enthält meine **Notizen, Übungen und kleinen Projekte** aus den Lernfeldern (LF01–LF12) 
+Dieses Repository enthält meine **Notizen, Übungen und kleinen Projekte** aus den Lernfeldern (LF01–09, LFF01-04) 
 der Umschulung zum **Fachinformatiker für Systemintegration** (2025–2027, GFN GmbH).
 
 ## 📌 Übersicht
@@ -13,13 +13,10 @@ der Umschulung zum **Fachinformatiker für Systemintegration** (2025–2027, GFN
 - **LF07** – [folgt später]  
 - **LF08** – [folgt später]  
 - **LF09** – [folgt später]  
-- **LF10** – [folgt später]  
-- **LF11** – [folgt später]  
-- **LF12** – [folgt später]  
-
-👉 Jede Lernfeld-Mappe enthält:  
-- **Notizen** (Markdown/PDF)  
-- **Übungen** (z. B. Cisco Packet Tracer, SQL, Python, PowerShell)  
-- **Screenshots/Diagramme** (z. B. Netzpläne, Schutzbedarfsanalysen)  
-
+- **LFF1** – [folgt später]  
+- **LFF3** – [folgt später]  
+- **LFF4** – [folgt später]  
+  
+## 👉 Struktur:
+- Pro Lernfeld: kurze Themen-Notizen, ggf. Screenshots/Schemata (`media/`), Übungen (`übungen/`), Labs/Code (`labs/`).
 ---
