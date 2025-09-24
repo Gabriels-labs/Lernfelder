@@ -13,8 +13,6 @@
 6. [Marktumfeld des Betriebs](./06-marktumfeld-des-betriebs.md)
 
 
-## Ordner
-- `übungen/` – Übungsantworten, Kurzlösungen, mit Screenshots und PDF-Dateien
 
 
 ## IHK-Relevanz (AP1/AP2)
