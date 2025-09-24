@@ -18,5 +18,5 @@ der Umschulung zum **Fachinformatiker für Systemintegration** (2025–2027, GFN
 - **LFF4** – [folgt später]  
   
 ## 👉 Struktur:
-- Pro Lernfeld: kurze Themen-Notizen, ggf. Screenshots/Schemata (`media/`), Übungen (`übungen/`), Labs/Code (`labs/`).
+- Pro Lernfeld: kurze Themen-Notizen, ggf. `übungen/` – Übungsantworten, Kurzlösungen, mit Screenshots oder PDF-Dateien
 ---
