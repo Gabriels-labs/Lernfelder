@@ -19,11 +19,9 @@
 
 **Prüfungstipp:** Begriffe sauber trennen (LAN/WLAN/Router/Switch), Segmentierung erklären, warum DNS/DHCP grundlegend sind.
 ```md
+
 # Einführung in das Netzwerk des Betriebs
 
+- Betriebsweite IT-Dienste (z. B. Zutritt, Zeiterfassung, DMS, TK) hängen am LAN/WLAN; zentrale Server/Services im Serverraum oder extern im RZ/Cloud. Übergang ins Internet über Router.
+- Endgeräte erhalten **IP-Adressen**; Zugriff über **LAN** (verkabelt) oder **WLAN** (drahtlos). Stockwerks‑Switches leiten Daten zielgerichtet weiter; IP‑Telefone & TK‑Anlage hängen im selben Netz.
 
-- Betriebsweite IT-Dienste (z. B. Zutritt, Zeiterfassung, DMS, TK) hängen am LAN/WLAN; zentrale Server/Services im Serverraum oder extern im RZ/Cloud. Übergang ins Internet über Router. fileciteturn7file0
-- Endgeräte erhalten **IP-Adressen**; Zugriff über **LAN** (verkabelt) oder **WLAN** (drahtlos). Stockwerks‑Switches leiten Daten zielgerichtet weiter; IP‑Telefone & TK‑Anlage hängen im selben Netz. fileciteturn7file0
-
-
-**Merken (IHK):** Grundbegriffe sauber zuordnen (LAN/WLAN/Server/Router), Rolle der zentralen Dienste kurz beschreiben.
