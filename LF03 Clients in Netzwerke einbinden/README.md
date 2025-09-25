@@ -17,4 +17,4 @@
 
 
 ## Ordner
-- `übungen/` – Übungsantworten (Screenshots/PDF)
+- `übungen/` – Übungsantworten (Screenshots/PDFs möglich)
