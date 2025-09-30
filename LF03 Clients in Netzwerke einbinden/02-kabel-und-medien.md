@@ -6,6 +6,9 @@
 - **Tertiär (Horizontal/Etage)**: Etagenverteiler↔Arbeitsplatz (TA/Dose).
 - Doku ist Pflicht: Port-/Patch-Pläne, Etagenpläne, eindeutige Bezeichnungen.
 
+## Topologien
+Punkt‑zu‑Punkt, Bus (veraltet), Ring (Token), **Stern/erweiterter Stern** (Standard), (in)komplette **Masche**, **Zelle** (WLAN/Mobilfunk).
+
 ## Kupfer (Twisted Pair)
 - **Aufbau**: massive Leiter (Installationskabel) vs. Litze (Patch), **AWG 23/24** üblich.
 - **Schirmcodes**: U/UTP (ungeschirmt), F/UTP, S/UTP, **U/FTP**, **S/FTP** (sehr robust).
