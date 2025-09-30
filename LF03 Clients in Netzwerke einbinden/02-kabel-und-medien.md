@@ -1,4 +1,4 @@
-# 02 – Kabel & Medien (Gebäude, Campus, RZ)
+# 02 – Kabel & Medien
 
 ## Strukturierte Verkabelung (ISO/IEC 11801)
 - **Primär (Campus)**: Gebäude↔Gebäude (Außenstrecken).
