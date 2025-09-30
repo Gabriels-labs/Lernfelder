@@ -17,4 +17,4 @@
 
 
 ## Ordner
-- `übungen/` – Übungsantworten (Screenshots/PDFs möglich)
+- `übungen/` – Cisco Packet Tracer
