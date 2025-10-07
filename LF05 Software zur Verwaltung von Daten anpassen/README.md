@@ -8,7 +8,7 @@
 1. [Umfeld der Softwareentwicklung](./01-umfeld-der-softwareentwicklung.md)
 2. [Daten, Informationen, Zahlensysteme & Darstellungsformen](./02-daten-informationen-zahlensysteme-und-darstellungsformen.md)
 3. [Softwareentwicklungsprozess](./03-softwareentwicklungsprozess.md)
-4. [Anforderungsspezifikation & Entwurf](./04-anforderungsspezifikation-und-entwurf.md)
+4. [Anforderungsspezifikation & Entwurf](./04-anforderungsspezifikation-und-entwurf.md)  
 5. [Einfache Anwendungen mit Python](./05-einfache-anwendungen-mit-python.md)  
 6. [Dateizugriff & Dateiformate](./06-dateizugriff-und-dateiformate.md)  
 7. [Datenbanken – Grundlagen](./07-datenbanken-grundlagen.md)  
