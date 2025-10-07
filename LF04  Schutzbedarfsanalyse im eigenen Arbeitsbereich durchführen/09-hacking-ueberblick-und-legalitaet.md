@@ -1,4 +1,4 @@
-# Hacking: Überblick, Prozess, Legalität
+# Hacking
 
 ## Legalrahmen (DE)
 - **§ 202c StGB („Hackerparagraph“)**: Vorbereitungshandlungen mit Passwörtern/Tools strafbar; Einsätze nur mit Auftrag/Erlaubnis (z. B. Pentest).
