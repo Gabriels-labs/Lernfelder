@@ -32,6 +32,9 @@
 - **TCL** (Transaktionen): `COMMIT`, `ROLLBACK`
 - **Constraints:** `PRIMARY KEY`, `FOREIGN KEY ... REFERENCES`, `NOT NULL`, `UNIQUE`, `CHECK (...)`, `DEFAULT ...`
 
+## Prüfungsfokus (IHK)
+- **PK/FK**, ERM→Relational, Grund-SQL (DDL/DML), JOIN-Prinzip verstehen; Zweck von SQLite im Lernkontext.
+
 ### Mini-Beispiele
 ```sql
 -- Tabellen & Schlüssel
@@ -66,6 +69,3 @@ BEGIN;
 UPDATE bestellung SET betrag = betrag + 10 WHERE nr = 101;
 -- bei Fehler: ROLLBACK;
 COMMIT;
-
-## Prüfungsfokus (IHK)
-- **PK/FK**, ERM→Relational, Grund-SQL (DDL/DML), JOIN-Prinzip verstehen; Zweck von SQLite im Lernkontext.
