@@ -13,8 +13,6 @@ der Umschulung zum **Fachinformatiker für Systemintegration** (2025–2027, GFN
 - **LF07** – [folgt später]  
 - **LF08** – [folgt später]  
 - **LF09** – [folgt später]  
-- **LFF1** – [folgt später]  
-- **LFF3** – [folgt später]  
 - **LFF4** – [folgt später]  
   
 ## 👉 Struktur:
