@@ -21,8 +21,6 @@ Arten: **Technik-Prototyp** (Machbarkeit), **Service-Prototyp** (Ablauf/Interakt
 - **Metriken**: Ausfallzeiten, Mean Time to Restore, Deploy-Frequenz.  
 - **Kultur**: gemeinsame Verantwortung, offener Austausch, Lernen.
 
-> Kleiner Arduino-Anker: `setup()` initialisiert, `loop()` wiederholt. Gleiches Prinzip in groß: **Initialisieren → Messen/Steuern → Reagieren → Beobachten** – nur mit mehr Tests und Rollbacks.
-
 ---
 
 ## IHK-Kernanforderungen
