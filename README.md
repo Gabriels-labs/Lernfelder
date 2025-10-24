@@ -10,7 +10,7 @@ der Umschulung zum **Fachinformatiker für Systemintegration** (2025–2027, GFN
 - **LF04** – Schutzbedarfsanalyse und IT-Sicherheit  
 - **LF05** – Software zur Verwaltung von Daten anpassen  
 - **LF06** – [folgt später]  
-- **LF07** – [folgt später]  
+- **LF07** – Cyber-physische Systeme ergänzen
 - **LF08** – [folgt später]  
 - **LF09** – [folgt später]  
 - **LFF4** – Grundlagen Projektmanagement 
