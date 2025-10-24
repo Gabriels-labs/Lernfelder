@@ -1,5 +1,8 @@
 # OPC UA – Industriestandard für M2M
 
+> **Kurzdefinition**  
+> **OPC UA:** **Hersteller- und plattformunabhängiger Industriestandard** für **Maschine-zu-Maschine**-Kommunikation mit **Informationsmodell**, Diensten (Read/Write/Events/Subscriptions) und eingebauter **Sicherheit**.
+
 ## Worum geht’s?
 **OPC UA (Open Platform Communications – Unified Architecture)** ist **platt­form- und herstellerunabhängig**.  
 Es bringt **Informationsmodelle**, **Dienste** (Read/Write, Events, Subscriptions), **Discovery** und **Security** (Auth, Signatur, Verschlüsselung).
@@ -16,11 +19,6 @@ Es bringt **Informationsmodelle**, **Dienste** (Read/Write, Events, Subscription
 ## OPC UA vs. MQTT – sauber getrennt denken
 - **MQTT** = schlanker **Transport** mit Pub/Sub (Telemetrie), **ohne** eigenes Informationsmodell.  
 - **OPC UA** = **Standardisierte M2M-Schicht** mit Modell, Diensten und integrierter **Sicherheit**.
-
-> Praxis: In vielen Projekten coexistieren beide – MQTT für schnelle Telemetrie, OPC UA für strukturierte Maschinenintegration.
-
-> **Kurzdefinition**  
-> **OPC UA:** **Hersteller- und plattformunabhängiger Industriestandard** für **Maschine-zu-Maschine**-Kommunikation mit **Informationsmodell**, Diensten (Read/Write/Events/Subscriptions) und eingebauter **Sicherheit**.
 
 ---
 
