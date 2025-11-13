@@ -40,11 +40,11 @@ Deklaration & Initialisierung:
 ## 4. Operatoren & Logik
 
 ### Arithmetische Operatoren
-+  Addition  
--  Subtraktion  
-*  Multiplikation  
-/  Division  
-%  Modulo (Restwert)
+"+"  Addition  
+"-"  Subtraktion  
+"*"  Multiplikation  
+"/"  Division  
+"%"  Modulo (Restwert)
 
     int rest = 7 % 3;   // ergibt 1
 
