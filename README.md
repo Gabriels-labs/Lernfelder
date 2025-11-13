@@ -4,7 +4,7 @@ Dieses Repository enthält meine **Notizen, Übungen und kleinen Projekte** aus 
 der Umschulung zum **Fachinformatiker für Systemintegration** (2025–2027, GFN GmbH).
 
 ## 📌 Übersicht
-- **LF01** – [Das Unternehmen und die eigene Rolle im Betrieb](./LF01_Das_Unternehmen_und_die_eigene_Rolle_im_Betrieb/README.md)
+- **LF01** – [Das Unternehmen und die eigene Rolle im Betrieb](/LF01_Das_Unternehmen_und_die_eigene_Rolle_im_Betrieb/README.md)
 - **LF02** – Arbeitsplätze nach Kundenwunsch ausstatten  
 - **LF03** – Clients in Rechnernetzwerke einbinden  
 - **LF04** – Schutzbedarfsanalyse und IT-Sicherheit  
