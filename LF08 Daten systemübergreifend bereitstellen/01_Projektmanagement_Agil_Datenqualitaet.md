@@ -1,110 +1,81 @@
-# Projektmanagement, Agile Methoden & Datenqualität
+# Projektmanagement, agile Methoden & Datenqualität
 
-## 1. Projekt vs. Routineaufgaben
+## 1. Projekt vs. Routineaufgabe
 
-**Projekt:**
-- Zeitlich begrenzt
-- Einmalig / einzigartig
-- Klare Ziele und Ergebnisse
-- Eigene Planung, eigenes Budget
+**Projekt**  
+Ein Projekt ist einmalig, zeitlich befristet und verfolgt ein klares Ziel. Es braucht Planung, Steuerung und oft ein eigenes Budget.  
+Beispiele: Einführung eines neuen Ticketsystems, Umzug eines Rechenzentrums.
 
-**Routineaufgaben:**
-- Wiederkehrend, laufender Betrieb
-- Standardprozesse
-- Kein fester Endzeitpunkt
+**Routineaufgabe**  
+Routineaufgaben laufen dauerhaft, wiederholen sich und dienen dem laufenden Betrieb.  
+Beispiele: tägliche Datensicherung, Monitoring, Rechnungsbuchung.
 
-Beispiele:  
-- Projekt: Einführung eines neuen ERP-Systems  
-- Routine: Tägliche Datensicherung, Systemwartung
-
----
-
-## 2. Agiles Manifest – 4 Grundwerte
-
-- **Individuen & Interaktionen** über Prozesse & Werkzeuge  
-- **Funktionierende Software** über umfassende Dokumentation  
-- **Zusammenarbeit mit dem Kunden** über Vertragsverhandlungen  
-- **Reagieren auf Veränderung** über das Befolgen eines Plans
+Typische Unterscheidungsmerkmale:
+- **Ziel**: klar definiertes Ergebnis vs. laufende Aufrechterhaltung
+- **Zeitrahmen**: befristet vs. dauerhaft
+- **Einmaligkeit**: neuartig vs. standardisiert
+- **Management**: Projektplanung vs. Prozesssteuerung
 
 ---
 
-## 3. Klassisch vs. agil (Überblick)
+## 2. Agile Vorgehensmodelle (Scrum, Kanban, XP)
 
-| Merkmal           | Klassisch (Wasserfall) | Agil (z. B. Scrum)         |
-|-------------------|------------------------|----------------------------|
-| Ablauf            | sequentiell            | iterativ / inkrementell    |
-| Flexibilität      | gering                 | hoch                       |
-| Kundeneinbindung  | meist am Ende          | kontinuierlich             |
-| Dokumentation     | umfangreich            | eher schlank               |
-| Risikomanagement  | vorausschauend         | anpassend / reaktiv        |
+### Agiles Manifest – Kurzfassung
 
----
+Agile Methoden legen Wert auf:
+- Menschen & Zusammenarbeit wichtiger als starre Prozesse
+- Funktionierende Software wichtiger als dicke Doku
+- Enge Zusammenarbeit mit dem Kunden wichtiger als Vertragsdetails
+- Reagieren auf Änderungen wichtiger als starren Plan durchziehen
 
-## 4. Scrum – kurz & knapp
+### Scrum – Rahmenwerk in Iterationen
 
-**Rollen:**
-- Product Owner  
-- Entwicklungsteam  
-- Scrum Master  
+- **Rollen**: Product Owner, Entwicklungsteam, Scrum Master  
+- **Ablauf**: kurze Sprints (z. B. 2 Wochen) mit klar definierten Zielen  
+- **Zentrale Elemente**:
+  - Product Backlog (Wunschliste)
+  - Sprint Backlog (Aufgaben des Sprints)
+  - Review & Retrospektive (Ergebnis zeigen & verbessern)
 
-**Ablauf:**
-1. Anforderungen als **User Stories**  
-2. **Product Backlog** pflegen  
-3. **Sprint Planning** → Sprint Backlog  
-4. Sprint (z. B. 2 Wochen)  
-5. **Review** (Ergebnis zeigen)  
-6. **Retrospektive** (Verbesserungen planen)
+Scrum eignet sich, wenn sich Anforderungen häufig ändern und der Kunde regelmäßig Feedback gibt.
 
-**Artefakte:**
-- Product Backlog  
-- Sprint Backlog  
-- Inkrement  
-- Burndown Chart
+### Kanban – Fluss statt Sprints
 
----
+- Arbeit wird auf einem Board visualisiert: „To Do – In Arbeit – Erledigt“
+- Es gibt keine Sprints, Aufgaben fließen kontinuierlich durch das System
+- Work-in-Progress-Limits verhindern Überlastung
 
-## 5. Kanban
+Scrum und Kanban haben gemeinsam:
+- Transparenz durch Visualisierung
+- Fokus auf kontinuierliche Verbesserung
 
-- Ursprung in der Produktion („Signalkarte“)  
-- Arbeitsschritte als Spalten: z. B. „To Do“, „In Arbeit“, „Fertig“  
-- WIP-Limits (Work in Progress) begrenzen parallele Aufgaben  
-- Kontinuierlicher Fluss, keine festen Sprints
+Scrum ist strukturierter (feste Rollen, Sprints), Kanban flexibler (fließender Prozess).
 
-**Scrum vs. Kanban (ganz kurz):**
+### XP – Extreme Programming
 
-- Scrum → Sprints, definierte Rollen  
-- Kanban → kontinuierlicher Fluss, wenige Regeln  
+- Kleine Teams, sehr kurze Entwicklungszyklen
+- Fokus auf Codequalität durch:
+  - Testgetriebene Entwicklung (TDD)
+  - Pair Programming
+  - Einfaches Design
+- Werte: starke Kommunikation, kontinuierliches Feedback, Respekt in der Zusammenarbeit
 
 ---
 
-## 6. Extreme Programming (XP)
+## 3. Datenqualität – warum sie so wichtig ist
 
-- Kleine Teams, kurze Zyklen  
-- Starker Fokus auf Code-Qualität
+Wenn Daten systemübergreifend genutzt werden, müssen sie **vertrauenswürdig** sein. Wichtige Kriterien sind u. a.:
 
-**Typische Praktiken:**
-- Testgetriebene Entwicklung (TDD)  
-- Pair Programming  
-- Einfaches Design  
-- Kontinuierliche Integration
+- Vollständig (nichts Wichtiges fehlt)
+- Richtig & konsistent (keine Widersprüche)
+- Aktuell genug für den Einsatzzweck
+- Eindeutig und verständlich benannt
+- In passenden Formaten und gut zugänglich
+
+Je besser die Datenqualität, desto verlässlicher sind Auswertungen, Berichte und Entscheidungen.
 
 ---
 
-## 7. Datenqualität – 12 Kriterien (kompakt)
+## Fazit
 
-Wichtige Kriterien guter Daten:
-
-- **Vollständigkeit** – nichts Wichtiges fehlt  
-- **Eindeutigkeit** – klar interpretierbar  
-- **Korrektheit** – fachlich richtig  
-- **Aktualität** – nicht veraltet  
-- **Genauigkeit/Präzision** – ausreichend detailliert  
-- **Konsistenz** – keine Widersprüche  
-- **Redundanzfreiheit** – keine unnötigen Dubletten  
-- **Relevanz** – zum Zweck passend  
-- **Einheitlichkeit** – gleiche Formate / Schreibweisen  
-- **Zuverlässigkeit** – vertrauenswürdige Quelle  
-- **Verständlichkeit** – klar benannt / dokumentiert  
-- **Zugänglichkeit** – auffindbar, verfügbar
-
-Diese Kriterien sind zentral, wenn Daten **systemübergreifend** genutzt werden.
+Diese Einheit beschreibt den Unterschied zwischen befristeten, einmaligen Projekten und laufenden Routineaufgaben, stellt zentrale agile Vorgehensmodelle wie Scrum, Kanban und XP vor und zeigt die Rolle von Datenqualität in IT-Projekten. Im Mittelpunkt steht, wie Projekte organisiert, flexibel umgesetzt und mit qualitativ hochwertigen Daten unterstützt werden, damit Systeme stabil laufen und Änderungen professionell umgesetzt werden können.
