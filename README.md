@@ -23,3 +23,4 @@ der Umschulung zum **Fachinformatiker für Systemintegration** (2025–2027, GFN
 ## 👉 Struktur:
 - Pro Lernfeld: kurze Themen-Notizen, ggf. `übungen/` – Übungsantworten, Kurzlösungen, mit Screenshots oder PDF-Dateien
 ---
+📅 Dieses Repository wird regelmäßig aktualisiert, sobald neue Module oder Projekte hinzukommen
