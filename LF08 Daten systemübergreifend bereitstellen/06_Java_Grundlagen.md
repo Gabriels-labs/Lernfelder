@@ -37,11 +37,11 @@ boolean aktiv = true;
 ## 4. Operatoren & Logik
 
 ### Arithmetische Operatoren
-+   Addition  
--   Subtraktion  
-*   Multiplikation  
-/   Division  
-%   Modulo (Rest)
+"+"   Addition  
+"-"   Subtraktion  
+"*"   Multiplikation  
+"/"   Division  
+"%"   Modulo (Rest)
 
 // Beispiel:
 int rest = 7 % 3;     // ergibt 1
