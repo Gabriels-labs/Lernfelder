@@ -5,7 +5,7 @@ der Umschulung zum **Fachinformatiker für Systemintegration** (2025–2027, GFN
 
 ## 📌 Übersicht
 - **LF01** – [Das Unternehmen und die eigene Rolle im Betrieb](/LF01%20Das%20Unternehmen%20und%20die%20eigene%20Rolle%20im%20Betrieb/README.md)
-- **LF02** – [Arbeitsplätze nach Kundenwunsch ausstatten](/LF02%Arbeitsplätze%nach%Kundenwunsch%ausstatten/README.md)
+- **LF02** – [Arbeitsplätze nach Kundenwunsch ausstatten](/LF02%20Arbeitsplätze%20nach%20Kundenwunsch%20ausstatten/README.md)
 - **LF03** – Clients in Rechnernetzwerke einbinden  
 - **LF04** – Schutzbedarfsanalyse und IT-Sicherheit  
 - **LF05** – Software zur Verwaltung von Daten anpassen  
