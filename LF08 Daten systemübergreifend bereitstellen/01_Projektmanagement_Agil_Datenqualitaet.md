@@ -1,4 +1,4 @@
-# Projektmanagement, agile Methoden & Datenqualität
+# Projektmanagement, Agile Methoden & Datenqualität
 
 ## 1. Projekt vs. Routineaufgaben
 
