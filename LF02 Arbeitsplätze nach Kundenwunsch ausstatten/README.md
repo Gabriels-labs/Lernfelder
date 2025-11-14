@@ -15,4 +15,4 @@
 
 
 ## Ordner
-- `übungen/` – Übungsantworten (Screenshots/PDFs möglich)
+- [Übungen](/LF02%20Arbeitsplätze%20nach%20Kundenwunsch%20ausstatten/übungen/Handlungsaufgabe.pdf) - Handlungsaufgabe 
