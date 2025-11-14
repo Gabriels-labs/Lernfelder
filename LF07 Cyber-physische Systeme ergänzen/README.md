@@ -11,6 +11,3 @@
 6. [Integration & Sicherheit: Zonen, Broker/Server, Betrieb](./06-integration-sicherheit-zonen.md)  
 7. [KI/ML, VR/AR, Prototyping & DevOps](./07-ki-ml-vr-ar-prototyping-devops.md)
 
-
-**Hinweis zur Prüfung (IHK)**  
-In jedem Kapitel am Ende **„IHK-Kernanforderungen“**
