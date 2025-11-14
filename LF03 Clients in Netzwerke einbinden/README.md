@@ -17,4 +17,4 @@
 
 
 ## Ordner
-- `übungen/` – Cisco Packet Tracer
+- [Übungen](/LF03%20Clients%20in%20Netzwerke%20einbinden/übungen) – Cisco Packet Tracer
