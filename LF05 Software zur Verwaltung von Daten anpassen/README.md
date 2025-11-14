@@ -17,4 +17,4 @@
 
 
 ## Ordner
-- `übungen/` – Übungsantworten, Kurzlösungen, mit Screenshots oder PDF-Dateien
+- [Uebungen](/LF05%20Software%20zur%20Verwaltung%20von%20Daten%20anpassen/übungen)
