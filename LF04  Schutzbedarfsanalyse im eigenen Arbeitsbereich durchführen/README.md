@@ -13,6 +13,3 @@
 8. [Schutzbedarfsanalyse (SBA) nach BSI 200-2](./08-schutzbedarfsanalyse.md)  
 9. [Hacking: Überblick, Prozess, Legalität](./09-hacking-ueberblick-und-legalitaet.md)  
 10. [Urheberrecht, Marken & Lizenzen](./10-urheberrecht-und-lizenzen.md)
-
-**Ordner**  
-- `übungen/` – Screenshots/PDFs aus Übungen
