@@ -11,4 +11,4 @@
 6. [Risiken, Controlling & Änderungsmanagement](./06-risiken-controlling-und-aenderungen.md)  
 
 **Ordner**  
-- [Uebungen - Screenshots](./LFF4%20Grundlagen%20Projektmanagement/%C3%BCbungen)
+- [Uebungen - Screenshots](/LFF4%20Grundlagen%20Projektmanagement/%C3%BCbungen)
