@@ -18,6 +18,3 @@
 
 ## Ordner
 - `übungen/` – Übungsantworten, Kurzlösungen, mit Screenshots oder PDF-Dateien
-
-
-> Hinweis: Inhalte sind bewusst knapp und praxisnah formuliert und dienen als persönlicher Lern- und Bewerbungsnachweis.
