@@ -9,7 +9,6 @@
 4. [PSP, Ressourcen- & Terminmanagement](./04-psp-ressourcen-und-termin.md)  
 5. [Kosten- & Beschaffungsmanagement](./05-kosten-und-beschaffung.md)  
 6. [Risiken, Controlling & Änderungsmanagement](./06-risiken-controlling-und-aenderungen.md)  
-7. [Projektabschluss & IHK-Projektarbeit (Exkurs)](./07-projektabschluss-und-ihk-projektarbeit.md)
 
 **Ordner**  
 - `uebungen/` – Screenshots
