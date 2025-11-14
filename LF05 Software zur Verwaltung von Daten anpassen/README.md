@@ -17,4 +17,4 @@
 
 
 ## Ordner
-- [Uebungen](/LF05%20Software%20zur%20Verwaltung%20von%20Daten%20anpassen/übungen)
+- [Übungen](/LF05%20Software%20zur%20Verwaltung%20von%20Daten%20anpassen/übungen) - Python
